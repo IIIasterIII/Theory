@@ -1,4 +1,4 @@
 # Theory
 
 - [JWT](JsonWebToken.md)
-- [FileJS&Multer](FileJS&Multer.md)
+- [File&Multer](File&Multer.md)
